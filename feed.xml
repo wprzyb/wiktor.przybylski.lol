@@ -3,10 +3,31 @@
     <title>wiktor.przybylski.lol</title>
     <link href="https://wiktor.przybylski.lol/feed.xml" rel="self" />
     <link href="https://wiktor.przybylski.lol" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-01-06T21:58:14+01:00</updated>
     <author>
         <name>Wiktor Przybylski</name>
     </author>
     <id>https://wiktor.przybylski.lol</id>
 
+    <entry>
+        <title>Hello world!</title>
+        <author>
+            <name>Wiktor Przybylski</name>
+        </author>
+        <link href="https://wiktor.przybylski.lol/hello-world.html"/>
+        <id>https://wiktor.przybylski.lol/hello-world.html</id>
+
+        <updated>2024-01-06T21:58:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I guess i decided to start a blog again. Let’s see what it will bring.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I guess i decided to start a blog again. Let’s see what it will bring.</p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
