@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wiktor.przybylski.lol/sitemap.xml
